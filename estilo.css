@@ -1,0 +1,21 @@
+.cabeça{
+    background-image: url(imagem\ de\ fundo.jpg);
+    background-size: 100%;
+    height: 50%s;
+    border-radius: 5px;
+}
+
+.logo{
+    margin-left: 40%;
+width: 200px;
+height: 200px;
+border-radius: 50%;
+}
+
+.pivo{
+    width: 20%;
+}
+a{
+    text-decoration: none;
+    font-size: large;
+}
